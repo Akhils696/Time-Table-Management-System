@@ -1,0 +1,40 @@
+Day,Slot,Subject,Teacher
+Monday,8:50-9:40,Mathematics,Prof. pragadeshwar
+Monday,9:40-10:30,Physics,Prof. arup das
+Monday,10:45-11:35,Computational Problem Solving,Prof. Malathi
+Monday,11:35-12:25,Hardware Essentials,Prof. Arti Anuragi
+Monday,12:25-1:15,English,Prof. Kavitha Raj
+Monday,2:55-3:45,Indian Heritage,Prof. UKV Sharma
+Monday,3:45-4:30,EEE Lab,Prof. Sunil nag
+Tuesday,8:50-9:40,Physics,Prof. arup das
+Tuesday,9:40-10:30,Mathematics,Prof. pragadeshwar
+Tuesday,10:45-11:35,Computational Problem Solving,Prof. Malathi
+Tuesday,11:35-12:25,English,Prof. Kavitha Raj
+Tuesday,12:25-1:15,Hardware Essentials,Prof. Arti Anuragi
+Tuesday,2:05-2:55,Indian Heritage,Prof. UKV Sharma
+Tuesday,2:55-3:45,MaOM,Prof. Anbalagan
+Tuesday,3:45-4:30,EEE Lab,Prof. Sunil nag
+Wednesday,8:50-9:40,Computational Problem Solving,Prof. Malathi
+Wednesday,9:40-10:30,Hardware Essentials,Prof. Arti Anuragi
+Wednesday,10:45-11:35,Mathematics,Prof. pragadeshwar
+Wednesday,11:35-12:25,Physics,Prof. arup das
+Wednesday,12:25-1:15,MaOM,Prof. Anbalagan
+Wednesday,2:05-2:55,Indian Heritage,Prof. UKV Sharma
+Wednesday,2:55-3:45,English,Prof. Kavitha Raj
+Wednesday,3:45-4:30,EEE Lab,Prof. Sunil nag
+Thursday,8:50-9:40,MaOM,Prof. Anbalagan
+Thursday,9:40-10:30,Mathematics,Prof. pragadeshwar
+Thursday,10:45-11:35,Physics,Prof. arup das
+Thursday,11:35-12:25,Computational Problem Solving,Prof. Malathi
+Thursday,12:25-1:15,English,Prof. Kavitha Raj
+Thursday,2:05-2:55,Indian Heritage,Prof. UKV Sharma
+Thursday,2:55-3:45,Hardware Essentials,Prof. Arti Anuragi
+Thursday,3:45-4:30,EEE Lab,Prof. Sunil nag
+Friday,8:50-9:40,Mathematics,Prof. pragadeshwar
+Friday,9:40-10:30,English,Prof. Kavitha Raj
+Friday,10:45-11:35,Hardware Essentials,Prof. Arti Anuragi
+Friday,11:35-12:25,Computational Problem Solving,Prof. Malathi
+Friday,12:25-1:15,MaOM,Prof. Anbalagan
+Friday,2:05-2:55,Physics,Prof. arup das
+Friday,2:55-3:45,Indian Heritage,Prof. UKV Sharma
+Friday,3:45-4:30,EEE Lab,Prof. Sunil nag

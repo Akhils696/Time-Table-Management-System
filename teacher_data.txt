@@ -1,0 +1,55 @@
+Prof. pragadeshwar
+Monday: 8:50-9:40 - Mathematics
+Tuesday: 9:40-10:30 - Mathematics
+Wednesday: 10:45-11:35 - Mathematics
+Thursday: 9:40-10:30 - Mathematics
+Friday: 8:50-9:40 - Mathematics
+
+Prof. arup das
+Monday: 9:40-10:30 - Physics
+Tuesday: 8:50-9:40 - Physics
+Wednesday: 11:35-12:25 - Physics
+Thursday: 10:45-11:35 - Physics
+Friday: 2:05-2:55 - Physics
+
+Prof. Malathi
+Monday: 10:45-11:35 - Computational Problem Solving
+Tuesday: 10:45-11:35 - Computational Problem Solving
+Wednesday: 8:50-9:40 - Computational Problem Solving
+Thursday: 11:35-12:25 - Computational Problem Solving
+Friday: 11:35-12:25 - Computational Problem Solving
+
+Prof. Arti Anuragi
+Monday: 11:35-12:25 - Hardware Essentials
+Tuesday: 12:25-1:15 - Hardware Essentials
+Wednesday: 9:40-10:30 - Hardware Essentials
+Thursday: 2:55-3:45 - Hardware Essentials
+Friday: 10:45-11:35 - Hardware Essentials
+
+Prof. Kavitha Raj
+Monday: 12:25-1:15 - English
+Tuesday: 11:35-12:25 - English
+Wednesday: 2:55-3:45 - English
+Thursday: 12:25-1:15 - English
+Friday: 9:40-10:30 - English
+
+Prof. Anbalagan
+Monday: 2:05-2:55 - MaOM
+Tuesday: 2:55-3:45 - MaOM
+Wednesday: 12:25-1:15 - MaOM
+Thursday: 8:50-9:40 - MaOM
+Friday: 12:25-1:15 - MaOM
+
+Prof. UKV Sharma
+Monday: 2:55-3:45 - Indian Heritage
+Tuesday: 2:05-2:55 - Indian Heritage
+Wednesday: 2:05-2:55 - Indian Heritage
+Thursday: 2:05-2:55 - Indian Heritage
+Friday: 2:55-3:45 - Indian Heritage
+
+Prof. Sunil nag
+Monday: 3:45-4:30 - EEE Lab
+Tuesday: 3:45-4:30 - EEE Lab
+Wednesday: 3:45-4:30 - EEE Lab
+Thursday: 3:45-4:30 - EEE Lab
+Friday: 3:45-4:30 - EEE Lab
